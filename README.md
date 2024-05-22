@@ -34,3 +34,22 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+------------
+
+usar esto si la version de node no es la mas actual (https://nodejs.org/en)**
+########################
+
+al crear un poyecto usar el siguiente comando
+
+npx create-next-app@latest nombre_de_tu_app
+
+-- se instalaron los siguiebntos comandos para complementar el proyecto:
+
+npm install tailwindcss-animate class-variance-authority clsx tailwind-merge
+npm install tailwindcss-animate class-variance-authority clsx tailwind-merge
+
+para instalar los iconos de react usar
+
+    npm i react-icons
