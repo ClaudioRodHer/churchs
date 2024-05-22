@@ -53,3 +53,29 @@ npm install tailwindcss-animate class-variance-authority clsx tailwind-merge
 para instalar los iconos de react usar
 
     npm i react-icons
+    
+-----------------------------------------------------------------------------------------------------------------
+Subir código por línea de comandos
+
+Si deseas subir tu código por consola Git Bash, sigue estos sencillos pasos:
+
+    Crea un nuevo repositorio desde GitHub llamado MiProyecto.
+    Abre una consola Git Bash. Sitúate en el directorio principal de tu proyecto y ejecuta: 
+
+git init
+
+git add .
+
+    Añade un momentario y prepara la subida con: 
+
+git commit -m «Subida de proyecto»
+
+Indica el repositorio Github
+
+git remote add origin https://github.com/Developrogramming/MiProyecto
+
+Finalmente, sube el proyecto a la ubicación específica:
+
+git push origin master
+
+Como resultado, tu código ya está subido en GitHub.
